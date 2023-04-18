@@ -40,7 +40,7 @@ header ul li {
 /* start home section  */
 
 .home {
-  background-image: url(/assets/PIC/bc.jpg);
+  background-image: url(../PIC/bc.jpg);
   margin: 0;
   background-size: cover;
   height: 650px;
@@ -412,7 +412,7 @@ header ul li {
 /* start support us section  */
 
 .support-us {
-  background-image: url(/assets/PIC/full-moon-behind-tree-29227773.jpg);
+  background-image: url(../PIC/full-moon-behind-tree-29227773.jpg);
   margin-top: 100px;
   padding-bottom: 80px;
 }
